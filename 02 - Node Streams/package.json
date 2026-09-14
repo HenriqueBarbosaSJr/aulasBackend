@@ -1,0 +1,14 @@
+{
+  "name": "02---node-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "streams.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch streams.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
